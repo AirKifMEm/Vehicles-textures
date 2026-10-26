@@ -20,14 +20,14 @@ tractors:
   fuelWasteSpeed: 1.3
   harvestSpeed: 9
  'RED':
-  mainMaterialUrl: 'http://textures.minecraft.net/texture/3cc470ae2631efdfaf967b369413bc2451cd7a39465da7836a6c7a14e877'
-  wheelMaterialUrl: 'http://textures.minecraft.net/texture/1b1fda04299089b01ccee39cf88e9c71bdd394bfe473eae364f53793a6d593'
+  mainMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-mainMaterialUrl.png'
+  wheelMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-wheelMaterialUrl.png'
   wheelCoverMaterial: RED_CARPET
-  motorMaterialUrl: 'http://textures.minecraft.net/texture/8cbca012f67e54de9aee72ff424e056c2ae58de5eacc949ab2bcd9683cec'
-  bottomMaterialUrl: 'http://textures.minecraft.net/texture/2342b9bf9f1f6295842b0efb591697b14451f803a165ae58d0dcebd98eacc'
-  steeringWheelMaterialUrl: 'http://textures.minecraft.net/texture/cb4df81256e7c34628319f47dc4dbd977e1eca7faf78cd78213aa38e57ef'
-  bigWheelOutsideMaterialUrl: 'https://textures.minecraft.net/texture/e484268dd0cef4cf8e10bcaeb81e51fec035c8a7bdd0759e0b46f9c49dc18f7f'
-  bigWheelInsideMaterialUrl: 'http://textures.minecraft.net/texture/1b1fda04299089b01ccee39cf88e9c71bdd394bfe473eae364f53793a6d593'
+  motorMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-motorMaterialUrl.png'
+  bottomMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-bottomMaterialUrl.png'
+  steeringWheelMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-steeringWheelMaterialUrl.png'
+  bigWheelOutsideMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-bigWheelOutsideMaterialUrl.png'
+  bigWheelInsideMaterialUrl: 'https://raw.githubusercontent.com/AirKifMEm/Vehicles-textures/main/tractor-textures/tractorsRED-bigWheelInsideMaterialUrl.png'
   maxSpeed: 0.45
   maxBackSpeed: 0.25
   acelerationValue: 0.0055
